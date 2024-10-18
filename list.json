@@ -1,0 +1,128 @@
+[
+    {
+      "name": "The Great Gatsby",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Classic American Novel by F. Scott Fitzgerald"
+    },
+    {
+      "name": "1984",
+      "price": 8.99,
+      "category": "Dystopian",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybridhttps://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybridDystopian Novel by George Orwell"
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybridrd.jpg",
+      "title": "Pulitzer Prize-Winning Novel by Harper Lee"
+    },
+    {
+      "name": "Sapiens: A Brief History of Humankind",
+      "price": 14.99,
+      "category": "Non-Fiction",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid", 
+      "title": "Bestselling Book by Yuval Noah Harari"
+    },
+    {
+      "name": "Becoming",
+      "price": 16.99,
+      "category": "Biography",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Memoir by Michelle Obama"
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybridrye.jpg",
+      "title": "Classic Novel by J.D. Salinger"
+    },
+    {
+      "name": "Educated",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Memoir by Tara Westover"
+    },
+    {
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "price": 11.99,
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Fantasy Novel by J.K. Rowling"
+    },
+    {
+      "name": "The Alchemist",
+      "price": 10.49,
+      "category": "Philosophy",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Inspirational Novel by Paulo Coelho"
+    },
+    {
+      "name": "The Hobbit",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+       "title": "Fantasy Novel by J.R.R. Tolkien"
+    },
+    {
+      "name": "Pride and Prejudice",
+      "price": 7.99,
+      "category": "Classic",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Classic Novel by Jane Austen"
+    },
+    {
+      "name": "The Power of Habit",
+      "price": 13.49,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Self-Improvement Book by Charles Duhigg"
+    },
+    {
+      "name": "Atomic Habits",
+      "price": 14.99,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Self-Improvement Guide by James Clear"
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "price": 11.99,
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Epic Fantasy Novel by J.R.R. Tolkien"
+    },
+    {
+      "name": "The Road",
+      "price": 9.49,
+      "category": "Dystopian",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Pulitzer Prize-Winning Novel by Cormac McCarthy"
+    },
+    {
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "price": 13.99,
+      "category": "Self-Help",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Self-Help Book by Mark Manson"
+    },
+    {
+      "name": "Dune",
+      "price": 15.99,
+      "category": "Science Fiction",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Sci-Fi Epic by Frank Herbert"
+    },
+    {
+      "name": "Brave New World",
+      "price": 0.00,
+      "category": "Free",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2113030492.1729209600&semt=ais_hybrid",
+      "title": "Dystopian Novel by Aldous Huxley"
+    }
+  ]
+  
